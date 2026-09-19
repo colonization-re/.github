@@ -2,18 +2,18 @@
 
 Reverse engineering Sid Meier’s Colonization — reconstructing the original source code, preserving its behavior, and building modern cross-platform ports.
 
-Public:
+**Public:**
 
 - [maps](https://github.com/colonization-re/maps) - Archive of community-created maps and scenarios
 - [win-tools](https://github.com/colonization-re/win-tools) - Colonization Windows tools for extracting and converting game data.
 - [web-ui](https://github.com/colonization-re/web-ui) - Shared CSS used across colonization-re projects.
 
-Work in progress:
+**Work in progress:**
 
 - [win-decomp](https://github.com/colonization-re/win-decomp) - Reverse engineering and decompilation of the Win 3.1 version of Colonization.
 - [savegame-editor](https://github.com/colonization-re/savegame-editor)
 
-Community:
+**Community:**
 
 - [Discord](https://discord.gg/4XP4S9yfJ8)
 - [reddit.com/r/ColonizationGame](https://www.reddit.com/r/ColonizationGame/)
