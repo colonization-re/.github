@@ -9,3 +9,7 @@ Public:
 Work in progress:
 
 - [win-decomp](https://github.com/colonization-re/win-decomp) - Reverse engineering and decompilation of the Win 3.1 version of Colonization.
+
+Community:
+
+- [reddit.com/r/ColonizationGame](https://www.reddit.com/r/ColonizationGame/)
