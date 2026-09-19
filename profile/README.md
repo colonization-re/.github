@@ -12,4 +12,5 @@ Work in progress:
 
 Community:
 
+- [Discord](https://discord.gg/4XP4S9yfJ8)
 - [reddit.com/r/ColonizationGame](https://www.reddit.com/r/ColonizationGame/)
