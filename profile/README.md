@@ -4,6 +4,7 @@ Reverse engineering Sid Meier’s Colonization — reconstructing the original s
 
 Public:
 
+- [maps](https://github.com/colonization-re/maps) - Archive of community-created maps and scenarios
 - [win-tools](https://github.com/colonization-re/win-tools) - Colonization Windows tools for extracting and converting game data.
 - [web-ui](https://github.com/colonization-re/web-ui) - Shared CSS used across colonization-re projects.
 
