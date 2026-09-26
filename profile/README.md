@@ -5,6 +5,7 @@ Reverse engineering Sid Meier’s Colonization — reconstructing the original s
 **Public:**
 
 - [maps](https://github.com/colonization-re/maps) - Archive of community-created maps and scenarios
+- [win31-runtime](https://github.com/colonization-re/win31-runtime) - Play original Colonization Windows 3.1 on a modern OS. Bring your own copy of the game.
 - [win-tools](https://github.com/colonization-re/win-tools) - Colonization Windows tools for extracting and converting game data.
 - [web-ui](https://github.com/colonization-re/web-ui) - Shared CSS used across colonization-re projects.
 - [fsm-to-mp](https://github.com/colonization-re/fsm-to-mp) - Convert FreeCol `.fsm` maps to classic col `.MP` format.
