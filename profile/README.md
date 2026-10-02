@@ -5,7 +5,7 @@ Reverse engineering Sid Meier’s Colonization — reconstructing the original s
 **Public:**
 
 - [maps](https://github.com/colonization-re/maps) - Archive of community-created maps and scenarios
-- [win-patches](https://github.com/colonization-re/win31-patches) - Community patches for ColWin: animated water, bug fixes and hidden features
+- [win-patches](https://github.com/colonization-re/win-patches) - Community patches for ColWin: animated water, bug fixes and hidden features
 - [win31-runtime](https://github.com/colonization-re/win31-runtime) - Play original Colonization Windows 3.1 on a modern OS. Bring your own copy of the game
 - [win-tools](https://github.com/colonization-re/win-tools) - Colonization Windows tools for extracting and converting game data
 - [web-ui](https://github.com/colonization-re/web-ui) - Shared CSS used across colonization-re projects
