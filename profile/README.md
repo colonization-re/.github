@@ -10,6 +10,7 @@ Reverse engineering Sid Meier’s Colonization — reconstructing the original s
 - [win-tools](https://github.com/colonization-re/win-tools) - Colonization Windows tools for extracting and converting game data
 - [web-ui](https://github.com/colonization-re/web-ui) - Shared CSS used across colonization-re projects
 - [fsm-to-mp](https://github.com/colonization-re/fsm-to-mp) - Convert FreeCol `.fsm` maps to classic col `.MP` format
+- [docs](https://github.com/colonization-re/docs)
 
 **Work in progress:**
 
